@@ -10,3 +10,4 @@ Delete the file betty.
 Delete the directory my_first_directory that is in the /tmp directory.
 Write a script that changes the working directory to the previous one.
 Write a script that lists all file.
+Write a script that prints the type of the file named iamafile.
