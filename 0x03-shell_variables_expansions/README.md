@@ -12,3 +12,4 @@ Write a script that displays the result of BREATH to the power LOVE
 Write a script that converts a number from base 2 to base 10.
 create a file that says.
 write out the variables of a code.
+to chaange from base 10 to base 16.
